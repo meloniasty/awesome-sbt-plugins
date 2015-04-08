@@ -61,7 +61,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-unique-version](https://github.com/sbt/sbt-unique-version) -  emulates Maven's uniqueVersion snapshots
 1. [sbt-docker](https://github.com/marcuslonnberg/sbt-docker) -  Create Docker images directly from sbt
 1. [sbt-aether-deploy](https://github.com/arktekk/sbt-aether-deploy) -  Deploy SBT artifacts using Eclipse Aether
-1. [sbt-git]("https://github.com/sbt/sbt-git") -  A git plugin for SBT
+1. [sbt-git](https://github.com/sbt/sbt-git) -  A git plugin for SBT
 
 ##WEB
 1. [sbt-plugins](https://github.com/untyped/sbt-plugins) -  SBT plugins for: Less CSS / JS compilation, Lift run modes, and more.
