@@ -41,7 +41,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-scalariform](https://github.com/sbt/sbt-scalariform) -  sbt plugin adding support for source code formatting using Scalariform
 1. [cpd4sbt](https://github.com/sbt/cpd4sbt) -  Integrating PMD's Copy/Paste Detector into SBT as a plug-in.
 1. [scalastyle-sbt-plugin](https://github.com/scalastyle/scalastyle-sbt-plugin) -  scalastyle-sbt-plugin
- 
+
 
 ##DOCUMENTATION
 1. [sbt-site](https://github.com/sbt/sbt-site) -  Site generation for SBT
@@ -96,7 +96,8 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
     * [sbt-traceur](https://github.com/arielscarpinelli/sbt-traceur)
     * [sbt-uglify](https://github.com/sbt/sbt-uglify)
     * [sbt-js-beautify](https://github.com/meloniasty/sbt-js-beautify)
-1. [sbt-js-engine](https://github.com/sbt/sbt-js-engine) - This plugin mainly provides support for the authoring of sbt plugins that require js-engine.   
+1. [sbt-js-engine](https://github.com/sbt/sbt-js-engine) - This plugin mainly provides support for the authoring of sbt plugins that require js-engine.
+1. [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) -  Build J2EE Web applications in Scala.
 
 
 ##MOBILE
