@@ -41,6 +41,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-scalariform](https://github.com/sbt/sbt-scalariform) -  sbt plugin adding support for source code formatting using Scalariform
 1. [cpd4sbt](https://github.com/sbt/cpd4sbt) -  Integrating PMD's Copy/Paste Detector into SBT as a plug-in.
 1. [scalastyle-sbt-plugin](https://github.com/scalastyle/scalastyle-sbt-plugin) -  scalastyle-sbt-plugin
+1. [WartRemover](https://github.com/puffnfresh/wartremover) - Flexible Scala code linting tool
 
 
 ##DOCUMENTATION
@@ -62,6 +63,10 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-docker](https://github.com/marcuslonnberg/sbt-docker) -  Create Docker images directly from sbt
 1. [sbt-aether-deploy](https://github.com/arktekk/sbt-aether-deploy) -  Deploy SBT artifacts using Eclipse Aether
 1. [sbt-git](https://github.com/sbt/sbt-git) -  A git plugin for SBT
+1. [sbt-revolver](https://github.com/spray/sbt-revolver) - An SBT plugin for dangerously fast development turnaround in Scala
+1. [sbt-onejar](https://github.com/sbt/sbt-onejar) - Packages your project using One-JAR™
+1. [sbt-start-script](https://github.com/sbt/sbt-start-script) - SBT Plugin to create a "start" script to run the program
+
 
 ##WEB
 1. [sbt-plugins](https://github.com/untyped/sbt-plugins) -  SBT plugins for: Less CSS / JS compilation, Lift run modes, and more.
@@ -116,3 +121,4 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [ls-sbt](https://github.com/softprops/ls) - a card calalog for scala libraries
 1. [sbt-cpp](https://github.com/d40cht/sbt-cpp) -  Sbt plugin to allow native compilation of C and C++
 1. [sbt-atmos](https://github.com/sbt/sbt-atmos) -  sbt plugin for running Typesafe Console in development
+1. [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) - Interactive Playground / Literate Programming for Scala — http://scalakata.com
