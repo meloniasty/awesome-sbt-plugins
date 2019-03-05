@@ -23,6 +23,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-idea](https://github.com/mpeltonen/sbt-idea) -  A simple-build-tool (sbt) plugin/processor for creating IntelliJ IDEA project files
 1. [sbteclipse](https://github.com/typesafehub/sbteclipse) -  Plugin for sbt to create Eclipse project definitions
 1. [sbt-sublime](https://github.com/orrsella/sbt-sublime) -  An sbt pluign for generating Sublime Text projects with library dependencies sources
+1. [sbt-ensime](http://ensime.github.io/build_tools/sbt/) - Sbt plugin for the [ENSIME](http://ensime.github.io/) language server, so that you can integrate IDE features into your favorite editor.
 
 
 ##SOURCE
