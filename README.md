@@ -55,6 +55,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 
 
 ##BUILD & RELEASE
+1. [partial-sbt](https://github.com/elarib/partial-sbt) - A SBT plugin that enable partial build, depending on what change between two git branch
 1. [sbt-release](https://github.com/sbt/sbt-release) -  A release plugin for sbt (>= 0.11.0)
 1. [sbt-maven-plugin](https://github.com/shivawu/sbt-maven-plugin) -  A sbt plugin which reads project definitions from pom.xml
 1. [sbt-assembly](https://github.com/sbt/sbt-assembly) -  Deploy fat JARs. Restart processes. (port of codahale/assembly-sbt)
