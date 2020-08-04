@@ -19,14 +19,15 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 
 <!-- /MarkdownTOC -->
 
-##IDE
+## IDE
 1. [sbt-idea](https://github.com/mpeltonen/sbt-idea) -  A simple-build-tool (sbt) plugin/processor for creating IntelliJ IDEA project files
 1. [sbteclipse](https://github.com/typesafehub/sbteclipse) -  Plugin for sbt to create Eclipse project definitions
 1. [sbt-sublime](https://github.com/orrsella/sbt-sublime) -  An sbt pluign for generating Sublime Text projects with library dependencies sources
-1. [sbt-ensime](http://ensime.github.io/build_tools/sbt/) - Sbt plugin for the [ENSIME](http://ensime.github.io/) language server, so that you can integrate IDE features into your favorite editor.
+1. [sbt-ensime](http://ensime.github.io/build_tools/sbt/) - sbt plugin for the [ENSIME](http://ensime.github.io/) language server, so that you can integrate IDE features into your favorite editor.
+1. [sbt-bloop](https://github.com/scalacenter/bloop) - sbt plugin for Bloop build server.
 
 
-##SOURCE
+## SOURCE
 1. [sbt-stats](https://github.com/orrsella/sbt-stats) -  An sbt plugin for source code statistics
 1. [np](https://github.com/softprops/np) -  new sbt project generation made simple(r)
 1. [sbt-properties](https://github.com/sbt/sbt-properties) -  sbt plugin to read properties from a file and make them available as a map
@@ -36,16 +37,17 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-buildinfo](https://github.com/sbt/sbt-buildinfo) -  I know this because build.sbt knows this.
 
 
-##TEST & QA
+## TEST & QA
 1. [jacoco4sbt](https://github.com/sbt/jacoco4sbt) -  JaCoCo Code Coverage plug-in for sbt.
 1. [sbt-scoverage](https://github.com/scoverage/sbt-scoverage#coveralls) -  sbt plugin for scoverage
 1. [sbt-scalariform](https://github.com/sbt/sbt-scalariform) -  sbt plugin adding support for source code formatting using Scalariform
 1. [cpd4sbt](https://github.com/sbt/cpd4sbt) -  Integrating PMD's Copy/Paste Detector into SBT as a plug-in.
 1. [scalastyle-sbt-plugin](https://github.com/scalastyle/scalastyle-sbt-plugin) -  scalastyle-sbt-plugin
 1. [WartRemover](https://github.com/puffnfresh/wartremover) - Flexible Scala code linting tool
+1. [sbt-scapegoat](https://github.com/sksamuel/sbt-scapegoat) - sbt plugin for Scapegoat (Scala static code analyzer)
 
 
-##DOCUMENTATION
+## DOCUMENTATION
 1. [sbt-site](https://github.com/sbt/sbt-site) -  Site generation for SBT
 1. [sbt-ghpages](https://github.com/sbt/sbt-ghpages) -  git, site and ghpages support for XSBT projects.
 1. [sbt-unidoc](https://github.com/sbt/sbt-unidoc) -  sbt plugin to create a unified API document across projects
@@ -54,7 +56,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [Soapbox](https://github.com/arnolddevos/Soapbox) -  Static site generator as an SBT plugin
 
 
-##BUILD & RELEASE
+## BUILD & RELEASE
 1. [partial-sbt](https://github.com/elarib/partial-sbt) - A SBT plugin that enable partial build, depending on what change between two git branch
 1. [sbt-release](https://github.com/sbt/sbt-release) -  A release plugin for sbt (>= 0.11.0)
 1. [sbt-maven-plugin](https://github.com/shivawu/sbt-maven-plugin) -  A sbt plugin which reads project definitions from pom.xml
@@ -70,7 +72,7 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-start-script](https://github.com/sbt/sbt-start-script) - SBT Plugin to create a "start" script to run the program
 
 
-##WEB
+## WEB
 1. [sbt-plugins](https://github.com/untyped/sbt-plugins) -  SBT plugins for: Less CSS / JS compilation, Lift run modes, and more.
 1. [less-sbt](https://github.com/softprops/less-sbt) -  type less css in your sbt projects
 1. [sbt-web](https://github.com/sbt/sbt-web) - This project provides the building blocks for web oriented sbt plugins
@@ -107,15 +109,15 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) -  Build J2EE Web applications in Scala.
 
 
-##MOBILE
+## MOBILE
 1. [android-plugin](https://github.com/jberkel/android-plugin) -  An sbt plugin for Android development in Scala
 
 
-##DB
+## DB
 1. [sbt-liquibase](https://github.com/bigtoast/sbt-liquibase) -  liquibase plugin for sbt 0.11+ / 0.12
 1. [sbt-lwm](http://software.clapper.org/sbt-lwm/) -  (Light Weight Markup) is an SBT 0.11.x plugin that converts lightweight markup documents to HTML. It currently supports Textile and Markdown.
 
-#OTHER
+## OTHER
 1. [sbt-growl](https://github.com/freekh/sbt-growl) - kinda growl notifier
 1. [sbt-scalabuff](https://github.com/sbt/sbt-scalabuff) -  SBT plugin which generate case classes and support for serialization from Google Protocol Buffer definitions using ScalaBuff
 1. [sbt-updates](https://github.com/rtimush/sbt-updates) -  SBT plugin that can check maven repositories for dependency updates
