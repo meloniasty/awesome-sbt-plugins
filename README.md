@@ -33,7 +33,6 @@ List of awesome [sbt](http://www.scala-sbt.org/) plugins
 1. [sbt-properties](https://github.com/sbt/sbt-properties) -  sbt plugin to read properties from a file and make them available as a map
 1. [sbt-pack](https://github.com/xerial/sbt-pack) -  A sbt plugin for creating distributable Scala packages.
 1. [sbt-cross-building](https://github.com/jrudolph/sbt-cross-building/) -  Enable cross-building of sbt plugins
-1. [sbt-dependency-graph](https://github.com/jrudolph/sbt-dependency-graph) -  sbt plugin to create a dependency graph for your project
 1. [sbt-buildinfo](https://github.com/sbt/sbt-buildinfo) -  I know this because build.sbt knows this.
 
 
